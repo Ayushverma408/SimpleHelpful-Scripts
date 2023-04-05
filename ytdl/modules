@@ -1,0 +1,7 @@
+
+[module/ytdl]
+type = custom/script
+format-prefix = "yt"
+format = <label>
+exec = echo "↓"
+click-left = dwnldyt
